@@ -1,2 +1,2 @@
-# wellnoted-site
-Temporary site before official site is complete. 
+# WellNoted 
+The AI for Clean Tech industry - In development. Coming soon!
